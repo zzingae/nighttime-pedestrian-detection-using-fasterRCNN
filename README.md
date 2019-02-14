@@ -1,6 +1,10 @@
 # Pedestrian detection based on faster R-CNN in nighttime by fusing deep convolutional features of successive images
 By Jong Hyun Kim, Ganbayar Batchuluun, Kang Ryoung Park
 
+<div align="left">
+    <img src="/images/sample.jpg" width="800px"</img> 
+</div>
+
 ### Introduction
 This code is relative to [paper](https://www.sciencedirect.com/science/article/pii/S0957417418304354).
 
