@@ -52,7 +52,7 @@ This code has been tested on Windows7 with MATLAB 2017a.
 
 0. extract KAIST(set06-11) testing images with skip frame=1 for the fusion of successive images.
 
-0. place skip=1 images in `./datasets/skip1/`
+0. place these images in `./datasets/skip1/`
 
 ### Testing
 
