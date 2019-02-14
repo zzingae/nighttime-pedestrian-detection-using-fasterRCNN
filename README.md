@@ -31,7 +31,7 @@ This code has been tested on Windows7 with MATLAB 2017a.
 0. download ImageNet-pre-trained VGG16(reduced for 7x3 ROI pooling) model(depicted below) from [GoogleDrive](https://drive.google.com/uc?export=download&id=1HIFDJtforADOt0M9P10AIUrY8qsA3MVc) and place it to `./models/pre_trained_models/vgg_16layers`
 
 <div align="left">
-    <img src="/fine_tuning.jpg" width="400px"</img> 
+    <img src="/images/fine_tuning.jpg" width="400px"</img> 
 </div>
 
 5. place KAIST(set00-05, skip=10), Caltech(set00-10, skip=30) training images and annotations in `./datasets/train/`
